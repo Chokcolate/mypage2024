@@ -4,6 +4,23 @@ img {
   height: 250px;
 }
 
+hr {
+  /* background-color: white; */
+  border-style: dotted none none;
+  width: 30%;
+  /* height: 2px; */
+  border-color: gray;
+  border-width: 15px;
+}
+
+body {
+  background-color: powderblue;
+}
+
+h1 {
+  color: #42855b;
+}
+
 table {
   border-collapse: collapse;
   /* border: 2px solid rgb(140 140 140); */
